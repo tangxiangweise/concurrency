@@ -23,8 +23,11 @@ target/
 /nbproject/private/
 /nbbuild/
 /dist/
+/idea/
+/target/
 /nbdist/
 /.nb-gradle/
+/.mvn/
 build/
 
 ### VS Code ###
